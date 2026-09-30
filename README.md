@@ -1,10 +1,10 @@
 # Call Stack
 
-This project is a small MERN app for managing employee records. It includes:
+This project is a small MERN app for our GeneSys FTL Design Project
 
 - A React frontend in `mern/client`
 - An Express API in `mern/server`
-- A MongoDB database connection for storing employee records
+- A MongoDB database connection 
 
 ## Project structure
 
